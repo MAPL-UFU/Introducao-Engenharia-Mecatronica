@@ -2,18 +2,18 @@
  * Definition of macros SSID, username and password
 */
 #define SSID "UFU-Institucional"
-#define username "alisson.vasconcelos@ufu.br"
-#define userpassword "GZvFtM@e5hQ2HyL"
+#define username "XXXX@ufu.br"
+#define userpassword "XXXX"
 #define password "XXXX"
 #define anonymous "anonymous@ufu.br"
 
 /** Input WiFi data
  * Definition of macros SSID, username and password
 */
-#define MQTTServer "10.14.108.205"
-#define MQTTPort 1883
+#define MQTTServer "XXXX"
+#define MQTTPort
 
 /* DECLARATION OF TOPICS VARIABLES */
-const char* topicLed = "IntroEngeMec/led";
-const char* topicStatus = "IntroEngeMec/status";
-const char* topicTagId = "IntroEngeMec/tagId";
+const char* topicLed = "XXXX";
+const char* topicStatus = "XXXX";
+const char* topicTagId = "XXXX";
